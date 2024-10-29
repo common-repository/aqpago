@@ -1,0 +1,8 @@
+{
+    "name": "aqbank/aqpago-woocommerce",
+    "description": "integration with woocommerce module.",
+    "type": "library",
+    "require": {
+        "picqer/php-barcode-generator": "^2.2"
+    }
+}
